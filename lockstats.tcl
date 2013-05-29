@@ -7,8 +7,6 @@ set auto_path "lib"
 auto_mkindex "lib" *.tcl
 
 # Author: David Chin <dwchin@umich.edu>
-# Phone: 734-763-7208
-# Mobile: 734-730-1274
 #
 # $Id: segments2.tcl,v 1.3 2002-04-12 16:55:30-04 dwchin Exp $
 #

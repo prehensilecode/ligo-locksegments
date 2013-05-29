@@ -1,6 +1,4 @@
 # Author: David Chin <dwchin@umich.edu>
-# Phone: 734-763-7208
-# Mobile: 734-730-1274
 #
 # $Id: guild2segments.tcl,v 1.3 2002/04/06 22:36:52 dwchin Exp $
 #

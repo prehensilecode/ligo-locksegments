@@ -1,6 +1,4 @@
 # Author: David Chin <dwchin@umich.edu>
-# Phone: 734-763-7208
-# Mobile: 734-730-1274
 #
 # $Id: cull_segments.tcl,v 1.2 2002/03/13 16:47:49 dwchin Exp $
 #
